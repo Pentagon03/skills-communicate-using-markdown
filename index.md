@@ -7,3 +7,8 @@
 - [ ] checkbox unchecked
 
 ![Image of WeCandoCat](https://octodex.github.com/images/mona-the-rivetertocat.png)
+
+## My Code
+```javascript
+var myVar = "Hello, Github";
+```
