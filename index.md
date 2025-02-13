@@ -5,3 +5,5 @@
 
 - [x] checkbox checked
 - [ ] checkbox unchecked
+
+![Image of WeCandoCat](https://octodex.github.com/images/mona-the-rivetertocat.png)
