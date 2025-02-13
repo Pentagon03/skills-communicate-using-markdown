@@ -12,3 +12,5 @@
 ```javascript
 var myVar = "Hello, Github";
 ```
+
+- [x] Commit.
